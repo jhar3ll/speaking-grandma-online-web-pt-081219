@@ -11,8 +11,3 @@ def speak_to_grandma(phrase)
  end
  
 end
-
-p speak_to_grandma("Hi")
-p speak_to_grandma("I LOVE YOU GRANDMA!")
-p speak_to_grandma("WHAT DID YOU EAT TODAY?")
-p speak_to_grandma("WHAT?")
